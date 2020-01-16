@@ -1580,6 +1580,10 @@ label span{
     .coop{
         height: 110vh;
     }
+
+    .coop img{
+        width:70vw;
+    }
 }
 
 @media(min-width:414px) and (orientation:portrait){
