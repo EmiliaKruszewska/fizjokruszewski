@@ -1280,7 +1280,7 @@ label span{
 }
 @media(min-width:667px) and (orientation:landscape){
     .contactMe{
-        height:120vh;
+        height:140vh;
     }
 
     .contactMe a:nth-of-type(3){
