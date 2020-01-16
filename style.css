@@ -1014,7 +1014,7 @@ label span{
 }
 @media(min-width:375px) and (orientation:portrait){
     .myMethods{
-        height: 83vh;
+        height: 90vh;
     }
     
     .myMethods h3{
@@ -1274,7 +1274,7 @@ label span{
 }
 @media(min-width:320px) and (min-height:568px) and (orientation:portrait){
     .contactMe{
-        height:80vh;
+        height:100vh;
     }
 
 }
@@ -1292,11 +1292,11 @@ label span{
 @media(min-width:375px) and (orientation:portrait){
     
     .contactMe{
-        height:60vh;
+        height:70vh;
         padding-top: 5%;
     }
     .contactMe h2{
-        font-size: 35px;
+        font-size: 30px;
     }
     .contactMe h3{
         font-size: 25px;
